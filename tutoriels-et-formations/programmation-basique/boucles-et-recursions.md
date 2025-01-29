@@ -2,7 +2,7 @@
 tags:
   - ressources
   - tutorials
-  - algorithm
+  - basic
 ---
 
 # Boucles et récursions
