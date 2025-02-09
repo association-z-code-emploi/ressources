@@ -62,7 +62,7 @@ En PHP, une variable :
 ```php
 <?php
 $nom = "Jim";
-$age = 25;
+$age = 30;
 ?>
 ```
 
@@ -92,7 +92,7 @@ print "Hello, world!";
 ```php
 <?php
 echo "Nom: " . $nom . ", Âge: " . $age;
-// 👉 "Nom: Jim, Âge: 25"
+// 👉 "Nom: Jim, Âge: 30"
 ?>
 ```
 
