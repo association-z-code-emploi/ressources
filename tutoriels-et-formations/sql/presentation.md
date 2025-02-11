@@ -5,7 +5,7 @@ tags:
   - basic
 ---
 
-# SQL
+# Présentation de SQL
 
 > Ce document n'a pas été conçu comme un guide pour créer du SQL, mais plutôt comme une introduction et une liste de ressources pour apprendre et pratiquer.
 
