@@ -1,6 +1,5 @@
 ---
 tags:
-  - ressources
   - tutorials
   - advanced
 ---

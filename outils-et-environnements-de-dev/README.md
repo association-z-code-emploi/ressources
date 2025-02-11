@@ -1,6 +1,5 @@
 ---
 tags:
-  - ressources
   - tools
   - environments
 ---

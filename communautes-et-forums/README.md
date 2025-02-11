@@ -1,6 +1,5 @@
 ---
 tags:
-  - ressources
   - communities-and-forums
 ---
 

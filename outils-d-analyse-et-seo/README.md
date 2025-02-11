@@ -1,6 +1,5 @@
 ---
 tags:
-  - ressources
   - analytic-tools
   - seo
 ---

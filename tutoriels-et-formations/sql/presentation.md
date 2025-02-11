@@ -1,8 +1,7 @@
 ---
 tags:
-  - ressources
   - tutorials
-  - basic
+  - sql
 ---
 
 # Présentation de SQL

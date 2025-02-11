@@ -1,6 +1,5 @@
 ---
 tags:
-  - ressources
   - pet-projects
   - training
 ---

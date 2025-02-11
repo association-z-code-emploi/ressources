@@ -1,8 +1,7 @@
 ---
 tags:
-  - ressources
   - tutorials
-  - advanced
+  - sql
 ---
 
 # Connecter une base de données

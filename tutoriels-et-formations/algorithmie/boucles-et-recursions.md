@@ -1,8 +1,6 @@
 ---
 tags:
-  - ressources
   - tutorials
-  - basic
 ---
 
 # Boucles et récursions
