@@ -1,7 +1,6 @@
 ---
 tags:
   - tutorials
-
   - php
 ---
 
@@ -221,10 +220,10 @@ var_dump($d !== $e); // renverra true, car l'ordre est au moins différent
 
 Les exercices suivants sont recommandés pour ce cours-ci :
 
-- [10_arithmetiques](/exercices-php/10_arithmetiques/README.md)
-- [11_assignations](/exercices-php/11_assignations/README.md)
-- [12_comparaisons](/exercices-php/12_comparaisons/README.md)
-- [13_incrementations-decrementations](/exercices-php/13_incrementations-decrementations/README.md)
-- [14_operations-logiques](/exercices-php/14_operations-logiques/README.md)
-- [15_fusion-arrays](#) 🚧
-- [16_combinaison-operateurs](#) 🚧
+- [10_arithmetiques](https://github.com/association-z-code-emploi/exercices-php/10_arithmetiques/README.md)
+- [11_assignations](https://github.com/association-z-code-emploi/exercices-php/11_assignations/README.md)
+- [12_comparaisons](https://github.com/association-z-code-emploi/exercices-php/12_comparaisons/README.md)
+- [13_incrementations-decrementations](https://github.com/association-z-code-emploi/exercices-php/13_incrementations-decrementations/README.md)
+- [14_operations-logiques](https://github.com/association-z-code-emploi/exercices-php/14_operations-logiques/README.md)
+- [15_fusion-arrays](https://github.com/association-z-code-emploi/exercices-php/15_fusion-arrays/README.md)
+- [16_combinaison-operateurs](https://github.com/association-z-code-emploi/exercices-php/16_combinaison-operateurs/README.md)

@@ -1,7 +1,6 @@
 ---
 tags:
   - tutorials
-
   - php
 ---
 
@@ -180,7 +179,7 @@ var_dump($texte); // affichera : "100"
 
 Les exercices suivants sont recommandés pour ce cours-ci :
 
-- [06_strings](/exercices-php/06_strings/README.md)
-- [07_numbers](/exercices-php/07_numbers/README.md)
-- [08_booleans](/exercices-php/08_booleans/README.md)
-- [09_arrays](/exercices-php/09_arrays/README.md)
+- [06_strings](https://github.com/association-z-code-emploi/exercices-php/06_strings/README.md)
+- [07_numbers](https://github.com/association-z-code-emploi/exercices-php/07_numbers/README.md)
+- [08_booleans](https://github.com/association-z-code-emploi/exercices-php/08_booleans/README.md)
+- [09_arrays](https://github.com/association-z-code-emploi/exercices-php/09_arrays/README.md)

@@ -1,7 +1,6 @@
 ---
 tags:
   - tutorials
-
   - php
 ---
 
@@ -101,8 +100,8 @@ echo "Nom: " . $nom . ", Âge: " . $age;
 
 Les exercices suivants sont recommandés pour ce cours-ci :
 
-- [01_hello-world](/exercices-php/01_hello-world/README.md)
-- [02_premieres-variables](/exercices-php/02_premieres-variables/README.md)
-- [03_commentaires](/exercices-php/03_commentaires/README.md)
-- [04_echo-vs-print](/exercices-php/04_echo-vs-print/README.md)
-- [05_concatenations](/exercices-php/05_concatenations/README.md)
+- [01_hello-world](https://github.com/association-z-code-emploi/exercices-php/01_hello-world/README.md)
+- [02_premieres-variables](https://github.com/association-z-code-emploi/exercices-php/02_premieres-variables/README.md)
+- [03_commentaires](https://github.com/association-z-code-emploi/exercices-php/03_commentaires/README.md)
+- [04_echo-vs-print](https://github.com/association-z-code-emploi/exercices-php/04_echo-vs-print/README.md)
+- [05_concatenations](https://github.com/association-z-code-emploi/exercices-php/05_concatenations/README.md)
