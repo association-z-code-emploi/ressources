@@ -97,4 +97,4 @@ echo "Ce fichier est : " . __FILE__;
 
 Les exercices suivants sont recommandés pour ce cours-ci :
 
-- [17](https://github.com/association-z-code-emploi/exercices-php/17_constantes/README.md)
+- [17_constantes](https://github.com/association-z-code-emploi/exercices-php/17_constantes/README.md)
