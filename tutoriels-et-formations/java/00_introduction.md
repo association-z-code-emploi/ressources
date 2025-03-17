@@ -62,25 +62,7 @@ Sans retour à la ligne -> et donc ce message est sur la même ligne que le mess
 Il y a 28 jours en février.
 ```
 
-# Les variables
-
-Une variable est ce qui va contenir une donnée. Pour ensuite retrouver cette donnée, on référencera son nom (comme un label ou une étiquette).
-
-En Java, une variable :
-
-- doit être précédé de son type de donnée
-- doit commencer par une lettre (pas de chiffres en premier)
-- peut contenir des lettres, chiffres et `_` (underscore)
-- est sensible à la casse (`Nom` et `nom` sont différents)
-
-```java
-int age = 25;
-double prix = 10.99;
-String nom = "Alice";
-boolean estActif = true;
-```
-
-> ℹ️ Vous découvrirez les types de données dans le [cours suivant](01_types-de-donnees.md).
+> ℹ️ Dans le cours suivant, vous découvrirez comment stocker une valeur (texte, nombre, etc...) dans [une variable](./01_variables.md).
 
 ---
 
