@@ -115,6 +115,4 @@ public class OperateursLogiques {
 
 ## Exercices
 
-Les exercices suivants sont recommandés pour ce cours-ci :
-
-- [TBA](#) 🚧
+Les exercices [03_operateurs](https://github.com/association-z-code-emploi/exercices-java/tree/main/03_operateurs) sont recommandés pour pratiquer les notions vues durant ce cours.

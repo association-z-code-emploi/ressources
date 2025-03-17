@@ -68,6 +68,4 @@ Il y a 28 jours en février.
 
 ## Exercices
 
-Les exercices suivants sont recommandés pour ce cours-ci :
-
-- [TBA](#) 🚧
+Les exercices [00_setup](https://github.com/association-z-code-emploi/exercices-java/tree/main/00_setup) sont recommandés pour pratiquer les notions vues durant ce cours.

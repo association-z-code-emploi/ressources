@@ -114,6 +114,4 @@ Bienvenue à Lille !
 
 ## Exercices
 
-Les exercices suivants sont recommandés pour ce cours-ci :
-
-- [TBA](#) 🚧
+Les exercices [02_types_de_donnees](https://github.com/association-z-code-emploi/exercices-java/tree/main/02_types-de-donnees) sont recommandés pour pratiquer les notions vues durant ce cours.

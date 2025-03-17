@@ -57,6 +57,4 @@ System.out.println(prenom); // affichera "Jim" dans le terminal
 
 ## Exercices
 
-Les exercices suivants sont recommandés pour ce cours-ci :
-
-- [TBA](#) 🚧
+Les exercices [01_variables](https://github.com/association-z-code-emploi/exercices-java/tree/main/01_variables) sont recommandés pour pratiquer les notions vues durant ce cours.
