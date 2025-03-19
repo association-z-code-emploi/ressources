@@ -84,6 +84,4 @@ public class CheckAge {
 
 ## Exercices
 
-## Exercices
-
 Les exercices [04_conditions](https://github.com/association-z-code-emploi/exercices-java/tree/main/04_conditions) sont recommandés pour pratiquer les notions vues durant ce cours.
