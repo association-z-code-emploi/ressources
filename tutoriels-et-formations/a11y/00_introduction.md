@@ -57,6 +57,16 @@ En pensant _accessibilité_ :
 
 ---
 
+## Aller plus loin
+
+- ["W3C - Des capacités et des points bloquants variés"](https://www.w3.org/WAI/people-use-web/abilities-barriers/fr) 📖🇫🇷
+- ["W3C - L’accessibilité Web illustrée"](https://www.w3.org/WAI/perspective-videos/fr) 📖🇫🇷
+- ["W3C - Bénéfices business de l’accessibilité numérique"](https://www.w3.org/WAI/business-case/fr) 📖🇫🇷
+- ["UATechnologyAccessibility - How People with Disabilities Access Digital Content"](https://www.youtube.com/watch?v=Lu7a5RU5lM0&ab_channel=UATechnologyAccessibility) 🎞️🇬🇧 (sous-titres officiels en anglais)
+- ["Elise Roy - When we design for disability, we all benefit"](https://www.youtube.com/watch?v=g2m97gPI70I&ab_channel=TED) 🎞️🇬🇧 (sous-titres officiels en anglais et en français)
+
+---
+
 ## Exercices
 
 Les exercices [00_introduction](https://github.com/association-z-code-emploi/exercices-a11y/tree/main/00_introduction) sont recommandés pour tester les connaissances sur les notions vues durant ce cours.
