@@ -1,6 +1,6 @@
 ---
 tags:
-  - communities-and-forums
+  - guides
 ---
 
 # Communautés et Forums

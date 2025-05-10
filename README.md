@@ -1,23 +1,31 @@
-# Ressources de base pour développeurs.euses
+# Z - Ressources
 
-## Tableau de bord
+## Index
 
-### [📚 Documentation Officielle](documentation-officielle/README.md)
+### Notions techniques
 
-### [📝 Fiches-mémo](fiches-memos/README.md)
+- [a11y (accessibilité)](notions-techniques/a11y/)
+- [Algorithmie](notions-techniques/algorithmie/)
+- [Architecture et concepts](notions-techniques/architecture-et-concepts/)
+- [CLI (ligne de commandes)](notions-techniques/CLI/)
+- [Git & GitHub](notions-techniques/git-et-github/)
+- [HTML & CSS](notions-techniques/html-css/)
+- [Java](notions-techniques/java/)
+- [JavaScript](notions-techniques/javascript/)
+- [Jest](notions-techniques/jest/)
+- [Laravel](notions-techniques/laravel/)
+- [PHP](notions-techniques/php/)
+- [SASS CSS](notions-techniques/sass/)
+- [SQL](notions-techniques/sql/)
 
-### [🛠️ Outils et Environnements de Développement](outils-et-environnements-de-dev/README.md)
+### Guides
 
-### [🎓 Tutoriels et Formations](tutoriels-et-formations/README.md)
+- [Communautés et forums](guides/communautes-et-forums.md)
 
-### [🔧 Générateurs et Outils Pratiques](generateurs-et-outils-pratiques/README.md)
+### Documentations en ligne
 
-### [🎨 Inspiration et Design](inspiration-et-design/README.md)
+- [Liste des documentations en ligne](documentations-en-ligne/README.md)
 
-### [💬 Communautés et Forums](communautes-et-forums/README.md)
+### Idées de projets
 
-### [🚀 Déploiement et Hébergement](deploiement-et-hebergement/README.md)
-
-### [📊 Outils d’Analyse et SEO](outils-d-analyse-et-seo/README.md)
-
-### [📅 Projets Pratiques à Réaliser](projets-pratiques-a-realiser/README.md)
+- [Liste des sites proposant des idées de projets](idees-de-projets/README.md)

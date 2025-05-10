@@ -1,7 +1,6 @@
 ---
 tags:
-  - pet-projects
-  - training
+  - project-ideas
 ---
 
 # Projets Pratiques à réaliser

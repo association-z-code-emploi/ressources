@@ -1,7 +1,7 @@
 ---
 tags:
-  - analytic-tools
-  - seo
+  - google
+  - devtools
 ---
 
 # Outils d'Analyse et SEO
