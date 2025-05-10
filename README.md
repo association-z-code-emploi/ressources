@@ -1,5 +1,7 @@
 # Z - Ressources
 
+> ℹ️ Vous débutez ? Checkez [le guide "Bien démarrer"](./guides/bien-debuter.md) !
+
 ## Index
 
 ### Notions techniques
