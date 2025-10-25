@@ -1,7 +1,6 @@
 ---
 tags:
   - tutorials
-  - roadmap
   - php
 ---
 
@@ -9,7 +8,43 @@ tags:
 
 # Bien débuter
 
-**PHP** ("_Hypertext Preprocessor_") est un langage de programmation simple et puissant, surtout utilisé pour créer des sites web dynamiques. Il permet, par exemple, de gérer facilement des bases de données, des sessions utilisateurs ou encore des formulaires.
+---
+
+## Introduction
+
+### Qu'est-ce que PHP ?
+
+- _PHP Hypertext Preprocessor_
+- spécialement conçu pour générer des pages web (mais aussi à d'autres choses)
+- langage de script opensource
+- langage interprété donc besoin d'un serveur HTTP :
+  - le fichier PHP a des instructions
+  - l'interpréteur a un rôle de "traducteur" et enverra la trad. au navigateur
+  - le navigateur ne sait lire que le résultat donné par l'interpréteur
+
+---
+
+## Installation
+
+Pour créer des applications en PHP, il faut d'abord installer PHP sur son ordinateur. Il peut être installé sur Windows, macOS ou différentes versions de Linux et il existe plusieurs façons de procéder :
+
+- sur le [site officiel de PHP](https://www.php.net/manual/fr/install.php)
+- en utilisant des outils comme APT (sur Linux) ou Homebrew (sur macOS)
+- en utilisant des outils en ligne comme :
+  - [OneCompiler](https://onecompiler.com/php)
+  - [PHP Sandbox](https://onlinephp.io/)
+
+Une fois l'installation terminée, vous pouvez tester si tout fonctionne en lançant un petit script PHP. Par exemple :
+
+```php
+<?php echo 'Hello, World!'; ?>
+```
+
+Ce code doit afficher "Hello, World!" dans votre navigateur si PHP est bien installé !
+
+<img src="https://media1.tenor.com/m/X60UMvwiQSUAAAAd/thumbs-up.gif" height=300 alt="Chow Yun-Fat thumbs up gif">
+
+---
 
 ## Feuille de route
 
@@ -56,23 +91,7 @@ Allez-y étape par étape, en vous arrêtant sur les différents sujets et ceux 
 
 8. Formulaires
 
-## Installation
-
-Pour créer des applications en PHP, il faut d'abord installer PHP sur son ordinateur. Il peut être installé sur Windows, macOS ou différentes versions de Linux et il existe plusieurs façons de procéder :
-
-- sur le [site officiel de PHP](https://www.php.net/manual/fr/install.php)
-- en utilisant des outils comme APT (sur Linux) ou Homebrew (sur macOS)
-- en utilisant des outils en ligne comme :
-  - [OneCompiler](https://onecompiler.com/php)
-  - [PHP Sandbox](https://onlinephp.io/)
-
-Une fois l'installation terminée, vous pouvez tester si tout fonctionne en lançant un petit script PHP. Par exemple :
-
-```php
-<?php echo 'Hello, World!'; ?>
-```
-
-Ce code doit afficher "Hello, World!" dans votre navigateur si PHP est bien installé !
+---
 
 ## Ressources en ligne
 
@@ -88,6 +107,8 @@ Inutile de tout suivre de A à Z : choisis une ressource ou deux et avance avec 
 - et toutes celles que vous pourriez découvrir !
 
 Enfin, armez-vous de la [documentation officielle](https://www.php.net/manual/fr/) : la principale source de vérité concernant PHP !
+
+---
 
 ## Mini-projets
 
@@ -108,5 +129,3 @@ On encouragera à se fixer un **planning simple** (par exemple 2h, 2 ou 3 fois p
 Notez votre planning quelque part (papier, Calendar, Notion, etc...), et partagez-le avec quelqu'un de fiable, qui saura vous "surveiller" pour vous pousser à gagner en discipline !
 
 **Mais surtout** : ne vous surchargez pas de travail, ne restez pas bloqué des heures sur un problème. Faîtes des pauses, faîtes autre chose entre vos temps de code. Votre planning sert aussi à cela !
-
-![IT meme firebin while coding - from Medium (Miro)](https://miro.medium.com/v2/resize:fit:960/format:webp/0*h9AL4d_xgHtQJYfa)
